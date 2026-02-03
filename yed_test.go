@@ -3,7 +3,7 @@ package yed_test
 import (
   . "github.com/orfjackal/gospec/src/gospec"
   "github.com/orfjackal/gospec/src/gospec"
-  "github.com/MobRulesGames/yedparse"
+  "github.com/UniqueUserajs/yedparse"
 )
 
 func YedSpec(c gospec.Context) {
